@@ -1,0 +1,6 @@
+@RealtimeUsedMedaitRWithCQRSPattern_HostAddress = http://localhost:5251
+
+GET {{RealtimeUsedMedaitRWithCQRSPattern_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
